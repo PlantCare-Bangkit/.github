@@ -4,6 +4,16 @@ Welcome to the PlantCare GitHub Organization! 🌱
 
 PlantCare is dedicated to developing innovative solutions for plant health management through technology. Our primary focus is on creating a mobile application that helps users identify and manage plant diseases effectively. This organization houses various repositories that contribute to our mission.
 
+## Team Members
+
+| Name | Bangkit ID | Learning Path | University | Social Media |
+| Andhin Vaniza Zahranie | M006B4KX0495  | Machine Learning | Universitas Brawijaya | [GitHub]()\n[Linkedin]() | 
+| :--- | :--------- | :------------ | :--------- | :----------- | 
+| :--- | :--------- | :------------ | :--------- | :----------- | 
+| :--- | :--------- | :------------ | :--------- | :----------- | 
+| :--- | :--------- | :------------ | :--------- | :----------- | 
+| :--- | :--------- | :------------ | :--------- | :----------- | 
+
 ## Repositories
 
 ### 1. [Main Mobile Application](https://github.com/PlantCare-Bangkit/PlantCare-App)
