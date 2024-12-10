@@ -39,7 +39,7 @@ All built versions are available as [release](https://github.com/PlantCare-Bangk
 Plant Care is currently built for Android.
 
 ### The following file will be present for last release:
-    [PlantCare-Early-Release](https://github.com/PlantCare-Bangkit/PlantCare-App/releases/download/v0.1.0-alpha/Plant_Care-v.1.0-alpha.apk).
+  <br/>[PlantCare-Early-Release](https://github.com/PlantCare-Bangkit/PlantCare-App/releases/download/v0.1.0-alpha/Plant_Care-v.1.0-alpha.apk).
 ---
 
 Thank you for visiting the PlantCare! Together, we can make a difference in plant health management.
