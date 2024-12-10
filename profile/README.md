@@ -6,7 +6,7 @@ PlantCare is dedicated to developing innovative solutions for plant health manag
 
 ## Repositories
 
-### 1. Plant Disease Identification Model
+### [1. Plant Disease Identifications](https://github.com/PlantCare-Bangkit/Plant-Disease-Identification-Model/)
 - **Description:** This repository contains the machine learning model designed to identify plant diseases from images. The model is trained on a diverse dataset to ensure accuracy and reliability.
 - **Branch:** `dev-cc` - This branch is dedicated to the development of an API that integrates with the main application.
 
