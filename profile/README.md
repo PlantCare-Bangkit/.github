@@ -35,10 +35,7 @@ We are a `C242-PS221` team of seven cohorts from Bangkit Academy 2024. The team 
 - **Description:** A web scraper that collects the latest news and articles related to plant health and care. This tool helps keep our users informed about the latest trends and research in plant management.
 
 ## Try It Now!
-All built versions are available as [release](https://github.com/PlantCare-Bangkit/PlantCare-App/releases).
-<br/><br/>Plant Care is currently built for Android.
-<br/>The following file will be present for last release:
-<br/>[PlantCare-Early-Release](https://github.com/PlantCare-Bangkit/PlantCare-App/releases/download/v0.1.0-alpha/Plant_Care-v.1.0-alpha.apk).
+All built versions are available as [release](https://github.com/PlantCare-Bangkit/PlantCare-App/releases).<br/><br/>Plant Care is currently built for Android.<br/>The following file will be present for last release:<br/>[PlantCare-Early-Release](https://github.com/PlantCare-Bangkit/PlantCare-App/releases/download/v0.1.0-alpha/Plant_Care-v.1.0-alpha.apk).
 ---
 
 Thank you for visiting the PlantCare! Together, we can make a difference in plant health management.
