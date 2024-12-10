@@ -8,7 +8,7 @@ PlantCare is dedicated to developing innovative solutions for plant health manag
 
 ### 1. [Main Mobile Application](https://github.com/PlantCare-Bangkit/PlantCare-App)
 - **Description:** The core mobile application that users will interact with. This repository contains the codebase for Android platforms, providing a seamless experience for plant health management.
-- 
+  
 ### 2. [Plant Disease Identifications](https://github.com/PlantCare-Bangkit/Plant-Disease-Identification-Model/)
 - **Description:** This repository contains the machine learning model designed to identify plant diseases from images. The model is trained on a diverse dataset to ensure accuracy and reliability.
 - **Branch:** [`dev-cc`](https://github.com/PlantCare-Bangkit/Plant-Disease-Identification-Model/tree/dev-cc) - This branch is dedicated to the development of an API that integrates with the main application.
