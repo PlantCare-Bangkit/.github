@@ -19,22 +19,6 @@ PlantCare is dedicated to developing innovative solutions for plant health manag
 ### 4. [Main Mobile Application](https://github.com/PlantCare-Bangkit/PlantCare-App)
 - **Description:** The core mobile application that users will interact with. This repository contains the codebase for Android platforms, providing a seamless experience for plant health management.
 
-## Getting Started
-
-To get started with any of the repositories, please follow the instructions provided in each repository's README file. If you are interested in contributing, feel free to fork the repository and submit a pull request.
-
-## Contributing
-
-We welcome contributions from the community! If you have ideas, suggestions, or improvements, please check our [Contributing Guidelines](CONTRIBUTING.md) for more information.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or feedback, please reach out to us at [contact@plantcare.org](mailto:contact@plantcare.org).
-
 ---
 
 Thank you for visiting the PlantCare organization! Together, we can make a difference in plant health management.
