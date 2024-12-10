@@ -9,13 +9,13 @@ We are a `C242-PS221` team of seven cohorts from Bangkit Academy 2024. The team 
 
 | Name | Bangkit ID | Learning Path | University | Social Media |
 | :--- | :--------- | :------------ | :--------- | :----------- | 
-| Andhin Vaniza Zahranie | M006B4KX0495 | Machine Learning | Universitas Brawijaya | [GitHub](https://github.com/f-blossom)<br/>[Linkedin](https://www.linkedin.com/in/andhin-vaniza-zahranie/) | 
-| Febrisa Eka Nur Patricia | M006B4KX1471 | Machine Learning | Universitas Brawijaya | [GitHub](https://github.com/febrisapatricia)<br/>[Linkedin](https://www.linkedin.com/in/febrisapatricia7/) | 
-| M Tsani Faishal Azhar | M012B4KY2329 | Machine Learning | Universitas Telkom | [GitHub](https://github.com/tsanifaishal)<br/>[Linkedin](https://www.linkedin.com/in/m-tsani-faishal-azhar-30846a258/) | 
-| Axel David | C012B4KY0742 | Cloud Computing | Universitas Telkom | [GitHub](https://github.com/szyxxx)<br/>[Linkedin](https://www.linkedin.com/in/axelldavid/) | 
-| Farhan Rizki Fauzi | C012B4KY1413 | Cloud Computing | Universitas Telkom | [GitHub](https://github.com/farhanrizkif)<br/>[Linkedin](https://www.linkedin.com/in/farhanrizkifauzi/) |
-| Rosyid Mukti Wibowo | A120B4KY3968 | Mobile Development | Institut Teknologi Telkom Purwokerto | [GitHub](https://github.com/Rosyidmw)<br/>[Linkedin](https://www.linkedin.com/in/rosyidmktwbw/) | 
-| Valerie Audry Hidayat | A290B4KX4395 | Mobile Development | Universitas Pancasila | [GitHub](https://github.com/ValerieAudry198)<br/>[Linkedin](https://www.linkedin.com/in/valerie-audry/) | 
+| Andhin Vaniza Zahranie | M006B4KX0495 | Machine Learning | Universitas Brawijaya | [`GitHub`](https://github.com/f-blossom)<br/>[`Linkedin`](https://www.linkedin.com/in/andhin-vaniza-zahranie/) | 
+| Febrisa Eka Nur Patricia | M006B4KX1471 | Machine Learning | Universitas Brawijaya | [`GitHub`](https://github.com/febrisapatricia)<br/>[`Linkedin`](https://www.linkedin.com/in/febrisapatricia7/) | 
+| M Tsani Faishal Azhar | M012B4KY2329 | Machine Learning | Universitas Telkom | [`GitHub`](https://github.com/tsanifaishal)<br/>[`Linkedin`](https://www.linkedin.com/in/m-tsani-faishal-azhar-30846a258/) | 
+| Axel David | C012B4KY0742 | Cloud Computing | Universitas Telkom | [`GitHub`](https://github.com/szyxxx)<br/>[`Linkedin`](https://www.linkedin.com/in/axelldavid/) | 
+| Farhan Rizki Fauzi | C012B4KY1413 | Cloud Computing | Universitas Telkom | [`GitHub`](https://github.com/farhanrizkif)<br/>[`Linkedin`](https://www.linkedin.com/in/farhanrizkifauzi/) |
+| Rosyid Mukti Wibowo | A120B4KY3968 | Mobile Development | Institut Teknologi Telkom Purwokerto | [`GitHub`](https://github.com/Rosyidmw)<br/>[`Linkedin`](https://www.linkedin.com/in/rosyidmktwbw/) | 
+| Valerie Audry Hidayat | A290B4KX4395 | Mobile Development | Universitas Pancasila | [`GitHub`](https://github.com/ValerieAudry198)<br/>[`Linkedin`](https://www.linkedin.com/in/valerie-audry/) | 
 
 ## Repositories
 
