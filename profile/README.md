@@ -22,18 +22,18 @@ We are a `C242-PS221` team of seven cohorts from Bangkit Academy 2024. The team 
 ### 1. [Main Mobile Application](https://github.com/PlantCare-Bangkit/PlantCare-App)
 - **Description:** The core mobile application that users will interact with. This repository contains the codebase for Android platforms, providing a seamless experience for plant health management.
 
-### 5. [Landing Page](https://github.com/PlantCare-Bangkit/PlantCare-LandingPage)
+### 2. [Landing Page](https://github.com/PlantCare-Bangkit/PlantCare-LandingPage)
 - **Description:** The landing page for the PlantCare application. This repository includes the front-end code and design elements that provide users with an introduction to our services and features.
   
-### 2. [Plant Disease Identifications](https://github.com/PlantCare-Bangkit/Plant-Disease-Identification-Model/)
+### 3. [Plant Disease Identifications](https://github.com/PlantCare-Bangkit/Plant-Disease-Identification-Model/)
 - **Description:** This repository contains the machine learning model designed to identify plant diseases from images. The model is trained on a diverse dataset to ensure accuracy and reliability.
 
-### 3. [PlantCare API](https://github.com/PlantCare-Bangkit/Plant-Disease-Identification-Model/tree/dev-cc)
+### 4. [PlantCare API](https://github.com/PlantCare-Bangkit/Plant-Disease-Identification-Model/tree/dev-cc)
 - **Description:** This Repository is dedicated to the development of an API that integrates with the main application.
   
-### 4. [News Scraper Apps](https://github.com/PlantCare-Bangkit/Plant-NewsArticle-Scraper)
+### 5. [News Scraper Apps](https://github.com/PlantCare-Bangkit/Plant-NewsArticle-Scraper)
 - **Description:** A web scraper that collects the latest news and articles related to plant health and care. This tool helps keep our users informed about the latest trends and research in plant management.
 
 ---
 
-Thank you for visiting the PlantCare organization! Together, we can make a difference in plant health management.
+Thank you for visiting the PlantCare! Together, we can make a difference in plant health management.
