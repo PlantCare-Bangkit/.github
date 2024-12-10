@@ -7,8 +7,8 @@ PlantCare is dedicated to developing innovative solutions for plant health manag
 ## Team Members
 
 | Name | Bangkit ID | Learning Path | University | Social Media |
-| Andhin Vaniza Zahranie | M006B4KX0495  | Machine Learning | Universitas Brawijaya | [GitHub]()\n[Linkedin]() | 
 | :--- | :--------- | :------------ | :--------- | :----------- | 
+| Andhin Vaniza Zahranie | M006B4KX0495  | Machine Learning | Universitas Brawijaya | [GitHub]()\n[Linkedin]() | 
 | :--- | :--------- | :------------ | :--------- | :----------- | 
 | :--- | :--------- | :------------ | :--------- | :----------- | 
 | :--- | :--------- | :------------ | :--------- | :----------- | 
