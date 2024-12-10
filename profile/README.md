@@ -5,7 +5,7 @@ Welcome to the PlantCare GitHub Organization! 🌱
 PlantCare is dedicated to developing innovative solutions for plant health management through technology. Our primary focus is on creating a mobile application that helps users identify and manage plant diseases effectively. This organization houses various repositories that contribute to our mission.
 
 ## Team Members
-We are a team of seven cohorts from Bangkit Academy 2024. The team was formed to participate in the Capstone Project. The members of the team are as follows:
+We are a `C242-PS221` team of seven cohorts from Bangkit Academy 2024. The team was formed to participate in the Capstone Project. The members of the team are as follows:
 
 | Name | Bangkit ID | Learning Path | University | Social Media |
 | :--- | :--------- | :------------ | :--------- | :----------- | 
