@@ -27,7 +27,7 @@ We are a `C242-PS221` team of seven cohorts from Bangkit Academy 2024. The team 
 
 ### 3. [PlantCare API](https://github.com/PlantCare-Bangkit/Plant-Disease-Identification-Model/tree/dev-cc)
 - **Description:** This Repository is dedicated to the development of an API that integrates with the main application.
-- 
+  
 ### 4. [News Scraper Apps](https://github.com/PlantCare-Bangkit/Plant-NewsArticle-Scraper)
 - **Description:** A web scraper that collects the latest news and articles related to plant health and care. This tool helps keep our users informed about the latest trends and research in plant management.
 
