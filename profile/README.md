@@ -17,7 +17,7 @@ PlantCare is dedicated to developing innovative solutions for plant health manag
 - **Description:** The landing page for the PlantCare application. This repository includes the front-end code and design elements that provide users with an introduction to our services and features.
 
 ### 4. [Main Mobile Application](https://github.com/PlantCare-Bangkit/PlantCare-App)
-- **Description:** The core mobile application that users will interact with. This repository contains the codebase for both iOS and Android platforms, providing a seamless experience for plant health management.
+- **Description:** The core mobile application that users will interact with. This repository contains the codebase for Android platforms, providing a seamless experience for plant health management.
 
 ## Getting Started
 
