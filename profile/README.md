@@ -1,12 +1,40 @@
-## Hi there 👋
+# PlantCare
 
-<!--
+Welcome to the PlantCare GitHub Organization! 🌱
 
-**Here are some ideas to get you started:**
+PlantCare is dedicated to developing innovative solutions for plant health management through technology. Our primary focus is on creating a mobile application that helps users identify and manage plant diseases effectively. This organization houses various repositories that contribute to our mission.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Repositories
+
+### 1. Plant Disease Identification Model
+- **Description:** This repository contains the machine learning model designed to identify plant diseases from images. The model is trained on a diverse dataset to ensure accuracy and reliability.
+- **Branch:** `dev-cc` - This branch is dedicated to the development of an API that integrates with the main application.
+
+### 2. News Scraper
+- **Description:** A web scraper that collects the latest news and articles related to plant health and care. This tool helps keep our users informed about the latest trends and research in plant management.
+
+### 3. Landing Page
+- **Description:** The landing page for the PlantCare application. This repository includes the front-end code and design elements that provide users with an introduction to our services and features.
+
+### 4. Main Mobile Application
+- **Description:** The core mobile application that users will interact with. This repository contains the codebase for both iOS and Android platforms, providing a seamless experience for plant health management.
+
+## Getting Started
+
+To get started with any of the repositories, please follow the instructions provided in each repository's README file. If you are interested in contributing, feel free to fork the repository and submit a pull request.
+
+## Contributing
+
+We welcome contributions from the community! If you have ideas, suggestions, or improvements, please check our [Contributing Guidelines](CONTRIBUTING.md) for more information.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries or feedback, please reach out to us at [contact@plantcare.org](mailto:contact@plantcare.org).
+
+---
+
+Thank you for visiting the PlantCare organization! Together, we can make a difference in plant health management.
